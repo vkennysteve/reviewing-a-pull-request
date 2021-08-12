@@ -7,7 +7,7 @@ You can play the game at: https://githubschool.github.io/github-games/
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
-2. Use the up and down arrow keys to rotate the shape.
+2. Use the up and down arrow keys or the 'e' and 'x'  keys to rotate the shape.
 3. Use the left and right arrow keys to position the shape.
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
